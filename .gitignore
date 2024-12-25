@@ -1,0 +1,49 @@
+# Environnement virtuel Python
+venv/
+env/
+.venv/
+
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de logs
+*.log
+
+# Dossiers de données et d'images générés par le script
+data/
+images/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers d'éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers de dépendances
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Fichiers de configuration potentiellement sensibles
+config.ini
+secrets.json
+
+# Fichiers temporaires
+*.tmp
+
+# Fichiers CSV (optionnel, à décommenter si vous ne voulez pas versionner les fichiers CSV)
+# *.csv
+
+# Fichiers d'environnement
+.env
+
+# Fichiers de cache de BeautifulSoup
+*.bsoup
+
+# Fichiers de sauvegarde
+*.bak
