@@ -5,7 +5,7 @@ Ce projet extrait les données de tous les livres du site Books to Scrape.
 ## Installation
 
 1. Clonez ce repository
-2. Créez un environnement virtuel : `python3 -m venv venv`
+2. Créez un environnement virtuel : `python3 -m venv .env`
 3. Activez l'environnement virtuel :
    - Windows : `venv\Scripts\activate`
    - macOS/Linux : `source venv/bin/activate`
